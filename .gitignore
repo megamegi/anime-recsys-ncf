@@ -1,0 +1,11 @@
+# Dataset besar (>100MB ditolak oleh GitHub)
+rating.csv
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment & temporary files
+.env
+.venv/
+env/
